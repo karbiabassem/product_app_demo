@@ -14,7 +14,6 @@ class ProductListPageScreen extends StatefulWidget {
   @override
   State<ProductListPageScreen> createState() => _ProductListPageScreenState();
 }
-//add comment
 
 class _ProductListPageScreenState extends State<ProductListPageScreen> {
   @override
